@@ -5,4 +5,4 @@ MassVod can take a collection of videos you want to splice together, along with 
 
 It's great if you want to produce thousands of 3 minute videos of your pets, or if you have a 30 minute compilation of skateboard tricks and you don't mind repeating some clips in a couple videos, can easily double or triple the amount of videos produced. For example one 30 minute video with an average clip length of 18 seconds can be turned into 30 3 minute videos, each video with 10 clips that are uniquely ordered in each exporting cycle so every clip is only reused 3 times and no exported video is exactly the same. 
 
-Currently under final stages of development before release 
+Currently under final stages of development before release.
