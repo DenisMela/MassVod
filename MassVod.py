@@ -95,7 +95,7 @@ while True: #Console menu WORK IN PROGRESS DO NOT USE SKIP OVER THIS
 			x = input()
 				
 
-while State == 2: #Watermark videos at the bottom left corner of screen UPDATE TO DO ANY CORNER / MIDDLE  
+while State == 2: #Watermark videos at a corner of the screen UPDATE TO DO ANY CORNER / MIDDLE  
 	
 	Video = glob.glob(os.getcwd() + "/Videos/*.mp4")
 	cur = glob.glob(os.getcwd() + "/Watermarked/*.mp4")
